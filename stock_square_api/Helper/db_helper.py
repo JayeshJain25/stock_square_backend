@@ -1,0 +1,5 @@
+DB_NAME = "stockSquare"
+DB_HOST = "13.127.232.124"
+DB_PORT = "27017"
+DB_USERNAME = "jayesh"
+DB_PWD = "jayesh"
